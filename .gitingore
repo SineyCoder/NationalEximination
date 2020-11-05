@@ -1,0 +1,15 @@
+exam_web/node_modules/
+HomeWork/*.iml
+HomeWork/.gradle
+HomeWork/local.properties
+HomeWork/.idea/caches
+HomeWork/.idea/libraries
+HomeWork/.idea/modules.xml
+HomeWork/.idea/workspace.xml
+HomeWork/.idea/navEditor.xml
+HomeWork/.idea/assetWizardSettings.xml
+HomeWork/.DS_Store
+HomeWork/build
+HomeWork/captures
+HomeWork/.externalNativeBuild
+HomeWork/.cxx
